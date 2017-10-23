@@ -500,14 +500,10 @@
 
 -  Name: Arinna B.  
 
-
    Place: Virginia, USA
-   
    
    Bio: Part-time blogger, full-time ghost
    
-   
    Github: [ArinnaBee](https://github.com/ArinnaBee/)  
-   
    
    Facebook: 
